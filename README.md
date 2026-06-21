@@ -3,6 +3,7 @@
 [![Competition](https://img.shields.io/badge/Kaggle-Jigsaw%20Agile%20Community%20Rules-blue)](https://www.kaggle.com/competitions/jigsaw-agile-community-rules/overview)
 [![Private LB](https://img.shields.io/badge/Private%20LB-0.92602-green)](#)
 [![Public LB](https://img.shields.io/badge/Public%20LB-0.931-brightgreen)](#)
+[![Rank](https://img.shields.io/badge/Rank-22%2F2445%20(Top%200.9%25)-blueviolet)](#)
 
 **判断 Reddit 评论是否违反子版块社区规则** 的二分类 NLP 任务，评估指标 **Column-averaged ROC-AUC**。
 
@@ -13,7 +14,7 @@
 | 榜单 | AUC | 排名 |
 |------|-----|------|
 | Public Leaderboard | **0.931** | — |
-| Private Leaderboard | **0.92602** | Top 5% |
+| Private Leaderboard | **0.92602** | **🥈 22 / 2445** (Top 0.9%) |
 
 ---
 
