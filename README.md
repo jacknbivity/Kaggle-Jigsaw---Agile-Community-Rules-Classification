@@ -16,6 +16,8 @@
 | Public Leaderboard | **0.931** | — |
 | Private Leaderboard | **0.92602** | **🥈 22 / 2445** (Top 0.9%) |
 
+![Leaderboard](RANK.png)
+
 ---
 
 ## 📁 项目结构
